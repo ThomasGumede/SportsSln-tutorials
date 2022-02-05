@@ -1,0 +1,9 @@
+.vscode/
+SportsStore/bin
+SportsStore/obj
+SportsStore/wwwroot/lib/twitter-bootstrap
+SportsStore/wwwroot/lib/font-awesome
+SportsStore.Tests/bin
+SportsStore.Tests/obj
+
+SportsStore/Migrations
